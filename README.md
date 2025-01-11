@@ -17,6 +17,7 @@ The following **required** functionality is completed:
 
 ![](https://i.imgur.com/dIPoGlF.gif)
 
+
 ## App Brainstorming (Step 4)
 
 Robinhood - I like the simplicity of it, I like being able to see the total amount of value my stocks have and what movements where made in the market upon opening the app.
