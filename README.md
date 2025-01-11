@@ -21,6 +21,14 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+Robinhood - I like the simplicity of it, I like being able to see the total amount of value my stocks have and what movements where made in the market upon opening the app.
+
+Tiktok - I like how they innovated social media completely with their signature for you page where you can swipe up endlessly.
+
+TCGplayer - I like to collect cards myself so I like being able to look up my card prices and new releases on this app.
+
+I would like to create an app that's a mix of both Robinhood and TCGplayer where I can create a profile, add my cards into my inventory and from there just be able to watch the movement of my card prices over time.'
+
 ## Notes
 
 Describe any challenges encountered while building the app.
